@@ -1,3 +1,8 @@
+# Chuck Norrise naljad
+Plaan on koostada rakendus, mis pärib https://api.chucknorris.io lehelt Chuck Norrise nalju kategooriate järgi ning võimaldab neid API kaudu tõlkida. 
+
+## Plaan
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
